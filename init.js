@@ -222,7 +222,7 @@ function newGame() {
                         gain: 100000
                     }
                 },
-                clickGain: 1,
+                clickGain: 100000,
                 isActive: false,
                 locked: true
             },
