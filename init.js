@@ -74,7 +74,7 @@ function newGame() {
                 max: 10,
                 //rate
                 //parent
-                clickGain: 1,
+                clickGain: 10000,
                 isActive: false,
                 locked: true
             },
@@ -89,7 +89,7 @@ function newGame() {
                         gain: 1000
                     }
                 },
-                clickGain: 1,
+                clickGain: 10000,
                 isActive: false,
                 locked: true
             },
@@ -100,7 +100,7 @@ function newGame() {
                 current: 0,
                 min: 0,
                 max: 10,
-                clickGain: 1,
+                clickGain: 10000,
                 isActive: false,
                 locked: true
             },
@@ -115,7 +115,7 @@ function newGame() {
                         gain: 100
                     }
                 },
-                clickGain: 1,
+                clickGain: 10000,
                 isActive: false,
                 locked: true
             },
@@ -126,7 +126,7 @@ function newGame() {
                 current: 0,
                 min: 0,
                 max: 5,
-                clickGain: 1,
+                clickGain: 10000,
                 isActive: false,
                 locked: true
             },
@@ -141,7 +141,7 @@ function newGame() {
                         gain: 100
                     }
                 },
-                clickGain: 1,
+                clickGain: 100001000,
                 isActive: false,
                 locked: true
             },
@@ -152,7 +152,7 @@ function newGame() {
                 current: 0,
                 min: 0,
                 max: 15,
-                clickGain: 1,
+                clickGain: 10000,
                 isActive: false,
                 locked: true
             },
@@ -167,7 +167,7 @@ function newGame() {
                         gain: 5000
                     }
                 },
-                clickGain: 1,
+                clickGain: 10000,
                 isActive: false,
                 locked: true
             },
@@ -178,7 +178,7 @@ function newGame() {
                 current: 0,
                 min: 0,
                 max: 2000,
-                clickGain: 1,
+                clickGain: 10000,
                 isActive: false,
                 locked: true
             },
@@ -193,7 +193,7 @@ function newGame() {
                         gain: 1000
                     }
                 },
-                clickGain: 1,
+                clickGain: 10000,
                 isActive: false,
                 locked: true
             },
@@ -204,7 +204,7 @@ function newGame() {
                 current: 0,
                 min: 0,
                 max: 200,
-                clickGain: 1,
+                clickGain: 10000,
                 isActive: false,
                 locked: true
             },
@@ -222,7 +222,7 @@ function newGame() {
                         gain: 100000
                     }
                 },
-                clickGain: 100000,
+                clickGain: 1000000000,
                 isActive: false,
                 locked: true
             },
@@ -233,7 +233,7 @@ function newGame() {
                 current: 0,
                 min: 0,
                 max: 1000,
-                clickGain: 1,
+                clickGain: 10000,
                 isActive: false,
                 locked: true
             },
@@ -248,7 +248,7 @@ function newGame() {
                         gain: 800000
                     }
                 },
-                clickGain: 1,
+                clickGain: 10000,
                 isActive: false,
                 locked: true
             }
