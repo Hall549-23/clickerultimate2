@@ -83,10 +83,10 @@ function newGame() {
                 label: "Water Progress",
                 current: 0,
                 min: 0,
-                max: 10,
+                max: 1,
                 parent: {
                     water: {
-                        gain: 1
+                        gain: 1000
                     }
                 },
                 clickGain: 1,
@@ -109,10 +109,10 @@ function newGame() {
                 label: "Wood Progress",
                 current: 0,
                 min: 0,
-                max: 25,
+                max: 1,
                 parent: {
                     wood: {
-                        gain: 1
+                        gain: 100
                     }
                 },
                 clickGain: 1,
@@ -135,10 +135,10 @@ function newGame() {
                 label: "Stone Progress",
                 current: 0,
                 min: 0,
-                max: 50,
+                max: 1,
                 parent: {
                     stone: {
-                        gain: 1
+                        gain: 100
                     }
                 },
                 clickGain: 1,
@@ -161,10 +161,10 @@ function newGame() {
                 label: "Iron Progress",
                 current: 0,
                 min: 0,
-                max: 1000,
+                max: 1,
                 parent: {
                     iron: {
-                        gain: 5
+                        gain: 5000
                     }
                 },
                 clickGain: 1,
@@ -190,7 +190,7 @@ function newGame() {
                 max: 5,
                 parent: {
                     wheat: {
-                        gain: 1
+                        gain: 1000
                     }
                 },
                 clickGain: 1,
@@ -216,10 +216,10 @@ function newGame() {
                 max: 2500,
                 parent: {
                     stone: {
-                        gain: 50
+                        gain: 10000
                     },
                     silver: {
-                        gain: 10
+                        gain: 100000
                     }
                 },
                 clickGain: 1,
@@ -245,7 +245,7 @@ function newGame() {
                 max: 10000,
                 parent: {
                     diamond: {
-                        gain: 80
+                        gain: 800000
                     }
                 },
                 clickGain: 1,
